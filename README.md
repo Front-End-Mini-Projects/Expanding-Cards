@@ -8,4 +8,4 @@ Pictures Source
   Small Light House - https://unsplash.com/photos/wVjoNpcTHxM
   Owl - https://unsplash.com/photos/KBHqwZ4z69Y
 
-![](http://i.imgur.com/OUkLi.gif)
+![]()
