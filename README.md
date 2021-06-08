@@ -8,12 +8,12 @@ Pictures Source
 * Small Light House - https://unsplash.com/photos/wVjoNpcTHxM
 * Owl - https://unsplash.com/photos/KBHqwZ4z69Y
 
-
+## Desktop
 ![](https://media.giphy.com/media/mkDgwshjX0pp3aebqv/giphy.gif)
 
 
-Phone Horizontal
+## Phone Horizontal
 ![](https://media.giphy.com/media/fghITPKdcPmY3xOwTU/giphy.gif)
 
-Phone Vertical
+## Phone Vertical
 ![](https://media.giphy.com/media/ZGlaTXSi6rmKprp9Rm/giphy.gif)
