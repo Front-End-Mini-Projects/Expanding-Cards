@@ -10,7 +10,6 @@ Transitioning Picture from left to right, vice-versa
 ## Desktop
 ![](https://media.giphy.com/media/mkDgwshjX0pp3aebqv/giphy.gif)
 
-
 ## Phone Horizontal
 ![](https://media.giphy.com/media/fghITPKdcPmY3xOwTU/giphy.gif)
 
