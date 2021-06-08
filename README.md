@@ -1,5 +1,5 @@
 # Expanding-Cards
-Transitioning Picture from left and right to center
+Transitioning Picture from left to right, vice-versa
 
 * At the Beach - https://unsplash.com/photos/rfZ6pJASHx0
 * WaterFall - https://unsplash.com/photos/TvzRUkSlCy4
