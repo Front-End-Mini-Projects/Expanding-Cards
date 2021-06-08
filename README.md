@@ -1,7 +1,6 @@
 # Expanding-Cards
 Transitioning Picture from left and right to center
 
-Pictures Source
 * At the Beach - https://unsplash.com/photos/rfZ6pJASHx0
 * WaterFall - https://unsplash.com/photos/TvzRUkSlCy4
 * Snowy Mountain - https://unsplash.com/photos/wfwsG1cCZU0
@@ -17,3 +16,4 @@ Pictures Source
 
 ## Phone Vertical
 ![](https://media.giphy.com/media/ZGlaTXSi6rmKprp9Rm/giphy.gif)
+
